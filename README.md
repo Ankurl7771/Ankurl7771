@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankurl7771
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently working in Angular, Java, Spring Boot
 - 💞️ I’m looking to collaborate on Front end projects 
 - 📫 How to reach me www.linkedin.com/in/ankurlambade000007771
 
